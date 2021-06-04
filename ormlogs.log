@@ -1,0 +1,1002 @@
+[2021-04-01T07:17:23.255Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T07:17:23.291Z][QUERY]: CREATE TABLE `dev_mainsite_db`.`migrations` (`id` int NOT NULL AUTO_INCREMENT, `timestamp` bigint NOT NULL, `name` varchar(255) NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T07:17:23.380Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T07:17:23.503Z]No migrations are pending
+[2021-04-01T07:18:00.871Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T07:18:00.911Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T07:18:00.954Z]No migrations are pending
+[2021-04-01T07:18:39.779Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T07:18:39.819Z][QUERY]: CREATE TABLE `dev_mainsite_db`.`migrations` (`id` int NOT NULL AUTO_INCREMENT, `timestamp` bigint NOT NULL, `name` varchar(255) NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T07:18:39.886Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T07:18:39.919Z]No migrations are pending
+[2021-04-01T07:20:39.301Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T07:20:39.347Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T07:20:39.381Z]No migrations are pending
+[2021-04-01T07:21:18.745Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T07:21:18.789Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T07:21:19.016Z]No migrations are pending
+[2021-04-01T07:22:52.561Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T07:22:52.612Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T07:23:55.461Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T07:23:55.502Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T07:24:05.894Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T07:24:05.939Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T07:24:24.305Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T07:24:24.347Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T07:24:24.381Z]No migrations are pending
+[2021-04-01T07:25:18.117Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T07:25:18.161Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T07:25:18.196Z]No migrations are pending
+[2021-04-01T07:26:11.162Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T07:26:11.198Z][QUERY]: CREATE TABLE `dev_mainsite_db`.`migrations` (`id` int NOT NULL AUTO_INCREMENT, `timestamp` bigint NOT NULL, `name` varchar(255) NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T07:26:11.269Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T07:26:11.303Z]No migrations are pending
+[2021-04-01T07:26:52.054Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T07:26:52.129Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T07:26:52.203Z]No migrations are pending
+[2021-04-01T07:28:58.026Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T07:28:58.070Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T07:29:42.529Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T07:29:42.574Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T07:29:42.608Z]No migrations are pending
+[2021-04-01T07:31:55.541Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T07:31:55.584Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T07:31:55.617Z]No migrations are pending
+[2021-04-01T07:33:43.573Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T07:33:43.619Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T07:33:43.661Z]No migrations are pending
+[2021-04-01T07:36:48.048Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T07:36:48.089Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T07:36:48.125Z]No migrations are pending
+[2021-04-01T07:39:08.012Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T07:39:08.055Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T07:39:08.088Z]No migrations are pending
+[2021-04-01T07:39:31.000Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T07:39:31.054Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T07:39:31.101Z]No migrations are pending
+[2021-04-01T07:40:26.578Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T07:40:26.621Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T07:40:26.653Z]No migrations are pending
+[2021-04-01T07:40:48.199Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T07:40:48.243Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T07:40:48.275Z]No migrations are pending
+[2021-04-01T07:41:48.094Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T07:41:48.133Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T07:41:48.189Z]No migrations was found in the database. Nothing to revert!
+[2021-04-01T07:42:49.459Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T07:42:49.503Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T07:42:49.534Z]No migrations are pending
+[2021-04-01T07:44:32.587Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T07:44:32.628Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T07:44:32.678Z]No migrations are pending
+[2021-04-01T07:46:12.217Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T07:46:12.277Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T07:46:12.309Z]No migrations are pending
+[2021-04-01T07:47:04.165Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T07:47:04.208Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T07:47:04.244Z]No migrations are pending
+[2021-04-01T07:47:57.632Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T07:47:57.678Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T07:47:57.782Z]No migrations are pending
+[2021-04-01T07:50:01.714Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T07:50:01.774Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T07:50:01.807Z]No migrations are pending
+[2021-04-01T07:52:53.783Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T07:52:53.828Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T07:52:53.863Z]No migrations are pending
+[2021-04-01T07:54:55.343Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T07:54:55.390Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T07:54:55.423Z]0 migrations are already loaded in the database.
+[2021-04-01T07:54:55.423Z]1 migrations were found in the source code.
+[2021-04-01T07:54:55.424Z]1 migrations are new migrations that needs to be executed.
+[2021-04-01T07:54:55.425Z][QUERY]: START TRANSACTION
+[2021-04-01T07:54:55.458Z][QUERY]: CREATE TABLE `contact_attach_file` (`id` int NOT NULL AUTO_INCREMENT, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T07:54:55.522Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T07:54:55.594Z][QUERY]: ALTER TABLE `contact_attach_file` ADD `name` varchar(255) NOT NULL
+[2021-04-01T07:54:55.666Z][QUERY]: ALTER TABLE `contact_attach_file` ADD `url` varchar(255) NOT NULL
+[2021-04-01T07:54:55.732Z][QUERY]: ALTER TABLE `contact_attach_file` ADD `contact_id` int NULL
+[2021-04-01T07:54:55.810Z][QUERY]: ALTER TABLE `contact_attach_file` ADD `contactId` int NULL
+[2021-04-01T07:54:55.886Z][QUERY]: ALTER TABLE `contact_attach_file` ADD CONSTRAINT `FK_0f65a59725ba034f2940734f257` FOREIGN KEY (`contact_id`) REFERENCES `contact`(`id`) ON DELETE NO ACTION ON UPDATE NO ACTION
+[2021-04-01T07:54:55.973Z][QUERY]: ALTER TABLE `contact_attach_file` ADD CONSTRAINT `FK_ef9d6e26742923a2dd91042eafb` FOREIGN KEY (`contactId`) REFERENCES `contact`(`id`) ON DELETE NO ACTION ON UPDATE NO ACTION
+[2021-04-01T07:54:56.065Z][QUERY]: INSERT INTO `dev_mainsite_db`.`migrations`(`timestamp`, `name`) VALUES (?, ?) -- PARAMETERS: [1617263050378,"TBContact1617263050378"]
+[2021-04-01T07:54:56.105Z]Migration TBContact1617263050378 has been executed successfully.
+[2021-04-01T07:54:56.105Z][QUERY]: COMMIT
+[2021-04-01T07:56:12.341Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T07:56:12.396Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T07:56:12.428Z]1 migrations are already loaded in the database.
+[2021-04-01T07:56:12.435Z]TBContact1617263050378 is the last executed migration. It was executed on Thu Apr 01 2021 14:44:10 GMT+0700 (Indochina Time).
+[2021-04-01T07:56:12.435Z]Now reverting it...
+[2021-04-01T07:56:12.437Z][QUERY]: START TRANSACTION
+[2021-04-01T07:56:12.470Z][QUERY]: ALTER TABLE `contact_attach_file` DROP FOREIGN KEY `FK_ef9d6e26742923a2dd91042eafb`
+[2021-04-01T07:56:12.513Z][QUERY]: ALTER TABLE `contact_attach_file` DROP FOREIGN KEY `FK_0f65a59725ba034f2940734f257`
+[2021-04-01T07:56:12.557Z][QUERY]: ALTER TABLE `contact_attach_file` DROP COLUMN `contactId`
+[2021-04-01T07:56:12.637Z][QUERY]: ALTER TABLE `contact_attach_file` DROP COLUMN `contact_id`
+[2021-04-01T07:56:12.711Z][QUERY]: ALTER TABLE `contact_attach_file` DROP COLUMN `url`
+[2021-04-01T07:56:12.795Z][QUERY]: ALTER TABLE `contact_attach_file` DROP COLUMN `name`
+[2021-04-01T07:56:12.869Z][QUERY]: DROP TABLE `contact`
+[2021-04-01T07:56:12.919Z][QUERY]: DROP TABLE `contact_attach_file`
+[2021-04-01T07:56:12.967Z][QUERY]: DELETE FROM `dev_mainsite_db`.`migrations` WHERE `timestamp` = ? AND `name` = ? -- PARAMETERS: [1617263050378,"TBContact1617263050378"]
+[2021-04-01T07:56:13.019Z]Migration TBContact1617263050378 has been reverted successfully.
+[2021-04-01T07:56:13.020Z][QUERY]: COMMIT
+[2021-04-01T07:58:01.656Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T07:58:01.700Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T07:58:01.731Z]0 migrations are already loaded in the database.
+[2021-04-01T07:58:01.732Z]1 migrations were found in the source code.
+[2021-04-01T07:58:01.733Z]1 migrations are new migrations that needs to be executed.
+[2021-04-01T07:58:01.733Z][QUERY]: START TRANSACTION
+[2021-04-01T07:58:01.766Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T07:58:01.827Z][QUERY]: CREATE TABLE `contact_attach_file` (`id` int NOT NULL AUTO_INCREMENT, `name` varchar(255) NOT NULL, `url` varchar(255) NOT NULL, `contactId` int NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T07:58:01.890Z][QUERY]: ALTER TABLE `contact_attach_file` ADD CONSTRAINT `FK_ef9d6e26742923a2dd91042eafb` FOREIGN KEY (`contactId`) REFERENCES `contact`(`id`) ON DELETE NO ACTION ON UPDATE NO ACTION
+[2021-04-01T07:58:01.986Z][QUERY]: INSERT INTO `dev_mainsite_db`.`migrations`(`timestamp`, `name`) VALUES (?, ?) -- PARAMETERS: [1617263859684,"TBContact1617263859684"]
+[2021-04-01T07:58:02.024Z]Migration TBContact1617263859684 has been executed successfully.
+[2021-04-01T07:58:02.025Z][QUERY]: COMMIT
+[2021-04-01T07:59:22.929Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T07:59:22.973Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T08:00:17.918Z][QUERY]: START TRANSACTION
+[2021-04-01T08:00:17.960Z][QUERY]: INSERT INTO `contact_attach_file`(`id`, `name`, `url`, `contactId`) VALUES (DEFAULT, ?, ?, DEFAULT) -- PARAMETERS: ["name","url"]
+[2021-04-01T08:00:18.001Z][QUERY]: ROLLBACK
+[2021-04-01T08:09:46.778Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T08:09:46.831Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T08:09:46.864Z]1 migrations are already loaded in the database.
+[2021-04-01T08:09:46.866Z]TBContact1617263859684 is the last executed migration. It was executed on Thu Apr 01 2021 14:57:39 GMT+0700 (Indochina Time).
+[2021-04-01T08:09:46.866Z]Now reverting it...
+[2021-04-01T08:09:46.867Z][QUERY]: START TRANSACTION
+[2021-04-01T08:09:46.903Z][QUERY]: ALTER TABLE `contact_attach_file` DROP FOREIGN KEY `FK_ef9d6e26742923a2dd91042eafb`
+[2021-04-01T08:09:46.946Z][QUERY]: DROP TABLE `contact_attach_file`
+[2021-04-01T08:09:46.990Z][QUERY]: DROP TABLE `contact`
+[2021-04-01T08:09:47.035Z][QUERY]: DELETE FROM `dev_mainsite_db`.`migrations` WHERE `timestamp` = ? AND `name` = ? -- PARAMETERS: [1617263859684,"TBContact1617263859684"]
+[2021-04-01T08:09:47.073Z]Migration TBContact1617263859684 has been reverted successfully.
+[2021-04-01T08:09:47.074Z][QUERY]: COMMIT
+[2021-04-01T08:13:54.002Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T08:13:54.060Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T08:13:54.092Z][QUERY]: START TRANSACTION
+[2021-04-01T08:13:54.125Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:13:54.217Z][QUERY]: CREATE TABLE `contact_attach_file` (`id` int NOT NULL AUTO_INCREMENT, `name` varchar(255) NOT NULL, `url` varchar(255) NOT NULL, `contactId` int NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:13:54.277Z][QUERY]: ALTER TABLE `contact_attach_file` ADD CONSTRAINT `FK_ef9d6e26742923a2dd91042eafb` FOREIGN KEY (`contactId`) REFERENCES `contact`(`id`) ON DELETE NO ACTION ON UPDATE NO ACTION
+[2021-04-01T08:13:54.367Z][QUERY]: INSERT INTO `dev_mainsite_db`.`migrations`(`timestamp`, `name`) VALUES (?, ?) -- PARAMETERS: [1617263859684,"TBContact1617263859684"]
+[2021-04-01T08:13:54.404Z][QUERY]: COMMIT
+[2021-04-01T08:14:05.976Z][QUERY]: START TRANSACTION
+[2021-04-01T08:14:06.023Z][QUERY]: INSERT INTO `contact`(`id`, `fullName`, `email`, `telephone`, `topic`, `detail`, `acceptPDPA`) VALUES (DEFAULT, ?, ?, ?, ?, ?, ?) -- PARAMETERS: ["aaa","ddd@dd.com","(123) 123-1233","topic2","123",0]
+[2021-04-01T08:14:06.069Z][QUERY]: COMMIT
+[2021-04-01T08:14:06.156Z][QUERY]: START TRANSACTION
+[2021-04-01T08:14:06.408Z][QUERY]: INSERT INTO `contact_attach_file`(`id`, `name`, `url`, `contactId`) VALUES (DEFAULT, ?, ?, ?) -- PARAMETERS: ["name","url",1]
+[2021-04-01T08:14:06.443Z][QUERY]: COMMIT
+[2021-04-01T08:15:13.080Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T08:15:13.125Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T08:15:35.718Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T08:15:35.768Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T08:16:07.481Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T08:16:07.524Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T08:16:07.575Z]1 migrations are already loaded in the database.
+[2021-04-01T08:16:07.577Z]TBContact1617263859684 is the last executed migration. It was executed on Thu Apr 01 2021 14:57:39 GMT+0700 (Indochina Time).
+[2021-04-01T08:16:07.577Z]Now reverting it...
+[2021-04-01T08:16:07.579Z][QUERY]: START TRANSACTION
+[2021-04-01T08:16:07.613Z][QUERY]: ALTER TABLE `contact_attach_file` DROP FOREIGN KEY `FK_ef9d6e26742923a2dd91042eafb`
+[2021-04-01T08:16:07.658Z][QUERY]: DROP TABLE `contact_attach_file`
+[2021-04-01T08:16:07.704Z][QUERY]: DROP TABLE `contact`
+[2021-04-01T08:16:07.756Z][QUERY]: DELETE FROM `dev_mainsite_db`.`migrations` WHERE `timestamp` = ? AND `name` = ? -- PARAMETERS: [1617263859684,"TBContact1617263859684"]
+[2021-04-01T08:16:07.814Z]Migration TBContact1617263859684 has been reverted successfully.
+[2021-04-01T08:16:07.814Z][QUERY]: COMMIT
+[2021-04-01T08:16:43.346Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T08:16:43.408Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T08:16:43.444Z]0 migrations are already loaded in the database.
+[2021-04-01T08:16:43.445Z]1 migrations were found in the source code.
+[2021-04-01T08:16:43.447Z]1 migrations are new migrations that needs to be executed.
+[2021-04-01T08:16:43.448Z][QUERY]: START TRANSACTION
+[2021-04-01T08:16:43.698Z][QUERY]: CREATE TABLE `contact_attach_file` (`id` int NOT NULL AUTO_INCREMENT, `name` varchar(255) NOT NULL, `url` varchar(255) NOT NULL, `contactId` int NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:16:43.761Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:16:43.838Z][QUERY]: INSERT INTO `dev_mainsite_db`.`migrations`(`timestamp`, `name`) VALUES (?, ?) -- PARAMETERS: [1617264973777,"TBContact1617264973777"]
+[2021-04-01T08:16:43.878Z]Migration TBContact1617264973777 has been executed successfully.
+[2021-04-01T08:16:43.879Z][QUERY]: COMMIT
+[2021-04-01T08:17:08.032Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T08:17:08.072Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T08:17:08.106Z][QUERY]: START TRANSACTION
+[2021-04-01T08:17:08.212Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:17:08.255Z][FAILED QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:17:08.255Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact' already exists
+[2021-04-01T08:17:08.257Z][QUERY]: ROLLBACK
+[2021-04-01T08:17:11.494Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T08:17:11.532Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T08:17:11.566Z][QUERY]: START TRANSACTION
+[2021-04-01T08:17:11.610Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:17:11.641Z][FAILED QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:17:11.641Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact' already exists
+[2021-04-01T08:17:11.641Z][QUERY]: ROLLBACK
+[2021-04-01T08:17:14.879Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T08:17:14.919Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T08:17:15.156Z][QUERY]: START TRANSACTION
+[2021-04-01T08:17:15.189Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:17:15.224Z][FAILED QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:17:15.224Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact' already exists
+[2021-04-01T08:17:15.225Z][QUERY]: ROLLBACK
+[2021-04-01T08:17:18.443Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T08:17:18.477Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T08:17:18.511Z][QUERY]: START TRANSACTION
+[2021-04-01T08:17:18.544Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:17:18.606Z][FAILED QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:17:18.606Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact' already exists
+[2021-04-01T08:17:18.607Z][QUERY]: ROLLBACK
+[2021-04-01T08:17:21.984Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T08:17:22.023Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T08:17:22.056Z][QUERY]: START TRANSACTION
+[2021-04-01T08:17:22.088Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:17:22.124Z][FAILED QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:17:22.124Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact' already exists
+[2021-04-01T08:17:22.125Z][QUERY]: ROLLBACK
+[2021-04-01T08:17:25.368Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T08:17:25.406Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T08:17:25.650Z][QUERY]: START TRANSACTION
+[2021-04-01T08:17:25.682Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:17:25.715Z][FAILED QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:17:25.715Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact' already exists
+[2021-04-01T08:17:25.716Z][QUERY]: ROLLBACK
+[2021-04-01T08:17:40.925Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T08:17:40.969Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T08:17:41.003Z][QUERY]: START TRANSACTION
+[2021-04-01T08:17:41.038Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:17:41.073Z][FAILED QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:17:41.073Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact' already exists
+[2021-04-01T08:17:41.075Z][QUERY]: ROLLBACK
+[2021-04-01T08:18:43.940Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T08:18:43.981Z][QUERY]: CREATE TABLE `dev_mainsite_db`.`migrations` (`id` int NOT NULL AUTO_INCREMENT, `timestamp` bigint NOT NULL, `name` varchar(255) NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:18:44.055Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T08:18:44.288Z]0 migrations are already loaded in the database.
+[2021-04-01T08:18:44.289Z]1 migrations were found in the source code.
+[2021-04-01T08:18:44.290Z]1 migrations are new migrations that needs to be executed.
+[2021-04-01T08:18:44.291Z][QUERY]: START TRANSACTION
+[2021-04-01T08:18:44.337Z][QUERY]: CREATE TABLE `contact_attach_file` (`id` int NOT NULL AUTO_INCREMENT, `name` varchar(255) NOT NULL, `url` varchar(255) NOT NULL, `contactId` int NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:18:44.399Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:18:44.462Z][QUERY]: INSERT INTO `dev_mainsite_db`.`migrations`(`timestamp`, `name`) VALUES (?, ?) -- PARAMETERS: [1617265105199,"TBContact1617265105199"]
+[2021-04-01T08:18:44.506Z]Migration TBContact1617265105199 has been executed successfully.
+[2021-04-01T08:18:44.506Z][QUERY]: COMMIT
+[2021-04-01T08:19:03.690Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T08:19:03.732Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T08:19:03.782Z][QUERY]: START TRANSACTION
+[2021-04-01T08:19:03.815Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:19:03.849Z][FAILED QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:19:03.849Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact' already exists
+[2021-04-01T08:19:03.850Z][QUERY]: ROLLBACK
+[2021-04-01T08:19:07.084Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T08:19:07.116Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T08:20:19.909Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T08:20:19.975Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T08:20:20.011Z][QUERY]: START TRANSACTION
+[2021-04-01T08:20:20.136Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:20:20.171Z][FAILED QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:20:20.171Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact' already exists
+[2021-04-01T08:20:20.172Z][QUERY]: ROLLBACK
+[2021-04-01T08:20:23.387Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T08:20:23.420Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T08:20:23.451Z][QUERY]: START TRANSACTION
+[2021-04-01T08:20:23.482Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:20:23.514Z][FAILED QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:20:23.514Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact' already exists
+[2021-04-01T08:20:23.514Z][QUERY]: ROLLBACK
+[2021-04-01T08:20:26.740Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T08:20:26.774Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T08:20:27.358Z][QUERY]: START TRANSACTION
+[2021-04-01T08:20:27.477Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:20:27.510Z][FAILED QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:20:27.511Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact' already exists
+[2021-04-01T08:20:27.511Z][QUERY]: ROLLBACK
+[2021-04-01T08:20:34.391Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T08:20:34.436Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T08:20:34.504Z][QUERY]: START TRANSACTION
+[2021-04-01T08:20:34.541Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:20:34.605Z][FAILED QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:20:34.605Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact' already exists
+[2021-04-01T08:20:34.606Z][QUERY]: ROLLBACK
+[2021-04-01T08:20:37.929Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T08:20:37.967Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T08:20:37.998Z][QUERY]: START TRANSACTION
+[2021-04-01T08:20:38.030Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:20:38.064Z][FAILED QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:20:38.064Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact' already exists
+[2021-04-01T08:20:38.065Z][QUERY]: ROLLBACK
+[2021-04-01T08:20:41.279Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T08:20:41.379Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T08:20:41.412Z][QUERY]: START TRANSACTION
+[2021-04-01T08:20:41.448Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:20:41.485Z][FAILED QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:20:41.485Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact' already exists
+[2021-04-01T08:20:41.486Z][QUERY]: ROLLBACK
+[2021-04-01T08:20:45.410Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T08:20:45.444Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T08:20:45.477Z][QUERY]: START TRANSACTION
+[2021-04-01T08:20:45.508Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:20:45.564Z][FAILED QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:20:45.564Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact' already exists
+[2021-04-01T08:20:45.565Z][QUERY]: ROLLBACK
+[2021-04-01T08:21:22.014Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T08:21:22.064Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T08:21:22.096Z]1 migrations are already loaded in the database.
+[2021-04-01T08:21:22.101Z]TBContact1617265105199 is the last executed migration. It was executed on Thu Apr 01 2021 15:18:25 GMT+0700 (Indochina Time).
+[2021-04-01T08:21:22.102Z]Now reverting it...
+[2021-04-01T08:21:22.103Z][QUERY]: START TRANSACTION
+[2021-04-01T08:21:22.138Z][QUERY]: DROP INDEX `IDX_eff09bb429f175523787f46003` ON `contact`
+[2021-04-01T08:21:22.188Z][QUERY]: DROP TABLE `contact`
+[2021-04-01T08:21:22.230Z][QUERY]: DROP TABLE `contact_attach_file`
+[2021-04-01T08:21:22.277Z][QUERY]: DELETE FROM `dev_mainsite_db`.`migrations` WHERE `timestamp` = ? AND `name` = ? -- PARAMETERS: [1617265105199,"TBContact1617265105199"]
+[2021-04-01T08:21:22.318Z]Migration TBContact1617265105199 has been reverted successfully.
+[2021-04-01T08:21:22.319Z][QUERY]: COMMIT
+[2021-04-01T08:21:36.300Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T08:21:36.345Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T08:21:36.377Z]0 migrations are already loaded in the database.
+[2021-04-01T08:21:36.378Z]1 migrations were found in the source code.
+[2021-04-01T08:21:36.379Z]1 migrations are new migrations that needs to be executed.
+[2021-04-01T08:21:36.380Z][QUERY]: START TRANSACTION
+[2021-04-01T08:21:36.415Z][QUERY]: CREATE TABLE `contact_attach_file` (`id` int NOT NULL AUTO_INCREMENT, `name` varchar(255) NOT NULL, `url` varchar(255) NOT NULL, `contactId` int NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:21:36.499Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:21:36.569Z][QUERY]: INSERT INTO `dev_mainsite_db`.`migrations`(`timestamp`, `name`) VALUES (?, ?) -- PARAMETERS: [1617265105199,"TBContact1617265105199"]
+[2021-04-01T08:21:36.698Z]Migration TBContact1617265105199 has been executed successfully.
+[2021-04-01T08:21:36.699Z][QUERY]: COMMIT
+[2021-04-01T08:22:02.776Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T08:22:03.279Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T08:22:03.536Z][QUERY]: START TRANSACTION
+[2021-04-01T08:22:03.620Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:22:03.706Z][FAILED QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:22:03.706Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact' already exists
+[2021-04-01T08:22:03.708Z][QUERY]: ROLLBACK
+[2021-04-01T08:22:07.831Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T08:22:07.918Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T08:22:08.004Z][QUERY]: START TRANSACTION
+[2021-04-01T08:22:08.122Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:22:09.185Z][FAILED QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:22:09.185Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact' already exists
+[2021-04-01T08:22:09.186Z][QUERY]: ROLLBACK
+[2021-04-01T08:22:12.704Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T08:22:12.975Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T08:22:13.069Z][QUERY]: START TRANSACTION
+[2021-04-01T08:22:13.164Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:22:13.253Z][FAILED QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:22:13.254Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact' already exists
+[2021-04-01T08:22:13.256Z][QUERY]: ROLLBACK
+[2021-04-01T08:22:16.917Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T08:22:17.004Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T08:22:17.241Z][QUERY]: START TRANSACTION
+[2021-04-01T08:22:17.328Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:22:17.410Z][FAILED QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:22:17.410Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact' already exists
+[2021-04-01T08:22:17.411Z][QUERY]: ROLLBACK
+[2021-04-01T08:22:34.795Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T08:22:35.067Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T08:22:35.151Z]1 migrations are already loaded in the database.
+[2021-04-01T08:22:35.156Z]TBContact1617265105199 is the last executed migration. It was executed on Thu Apr 01 2021 15:18:25 GMT+0700 (Indochina Time).
+[2021-04-01T08:22:35.157Z]Now reverting it...
+[2021-04-01T08:22:35.158Z][QUERY]: START TRANSACTION
+[2021-04-01T08:22:35.245Z][QUERY]: DROP INDEX `IDX_eff09bb429f175523787f46003` ON `contact`
+[2021-04-01T08:22:35.344Z][QUERY]: DROP TABLE `contact`
+[2021-04-01T08:22:35.456Z][QUERY]: DROP TABLE `contact_attach_file`
+[2021-04-01T08:22:35.558Z][QUERY]: DELETE FROM `dev_mainsite_db`.`migrations` WHERE `timestamp` = ? AND `name` = ? -- PARAMETERS: [1617265105199,"TBContact1617265105199"]
+[2021-04-01T08:22:35.653Z]Migration TBContact1617265105199 has been reverted successfully.
+[2021-04-01T08:22:35.656Z][QUERY]: COMMIT
+[2021-04-01T08:24:11.267Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T08:24:12.032Z][QUERY]: CREATE TABLE `dev_mainsite_db`.`migrations` (`id` int NOT NULL AUTO_INCREMENT, `timestamp` bigint NOT NULL, `name` varchar(255) NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:24:12.151Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T08:24:12.240Z]0 migrations are already loaded in the database.
+[2021-04-01T08:24:12.241Z]1 migrations were found in the source code.
+[2021-04-01T08:24:12.242Z]1 migrations are new migrations that needs to be executed.
+[2021-04-01T08:24:12.243Z][QUERY]: START TRANSACTION
+[2021-04-01T08:24:12.327Z][QUERY]: CREATE TABLE `contact_attach_file` (`id` int NOT NULL AUTO_INCREMENT, `name` varchar(255) NOT NULL, `url` varchar(255) NOT NULL, `contactId` int NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:24:12.582Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:24:12.701Z][QUERY]: INSERT INTO `dev_mainsite_db`.`migrations`(`timestamp`, `name`) VALUES (?, ?) -- PARAMETERS: [1617265409838,"TBContact1617265409838"]
+[2021-04-01T08:24:12.790Z]Migration TBContact1617265409838 has been executed successfully.
+[2021-04-01T08:24:12.791Z][QUERY]: COMMIT
+[2021-04-01T08:25:04.545Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T08:25:04.601Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T08:25:04.635Z][QUERY]: START TRANSACTION
+[2021-04-01T08:25:04.669Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:25:04.710Z][FAILED QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:25:04.710Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact' already exists
+[2021-04-01T08:25:04.711Z][QUERY]: ROLLBACK
+[2021-04-01T08:25:08.161Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T08:25:08.193Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T08:25:08.224Z][QUERY]: START TRANSACTION
+[2021-04-01T08:25:08.254Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:25:08.288Z][FAILED QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:25:08.288Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact' already exists
+[2021-04-01T08:25:08.288Z][QUERY]: ROLLBACK
+[2021-04-01T08:25:11.515Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T08:25:11.550Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T08:25:12.048Z][QUERY]: START TRANSACTION
+[2021-04-01T08:25:12.084Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:25:12.117Z][FAILED QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:25:12.117Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact' already exists
+[2021-04-01T08:25:12.118Z][QUERY]: ROLLBACK
+[2021-04-01T08:25:15.672Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T08:25:15.705Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T08:25:15.737Z][QUERY]: START TRANSACTION
+[2021-04-01T08:25:15.768Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:25:15.897Z][FAILED QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:25:15.897Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact' already exists
+[2021-04-01T08:25:15.897Z][QUERY]: ROLLBACK
+[2021-04-01T08:25:19.188Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T08:25:19.223Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T08:25:19.256Z][QUERY]: START TRANSACTION
+[2021-04-01T08:25:19.288Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:25:19.321Z][FAILED QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:25:19.321Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact' already exists
+[2021-04-01T08:25:19.322Z][QUERY]: ROLLBACK
+[2021-04-01T08:25:22.553Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T08:25:22.594Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T08:25:22.842Z][QUERY]: START TRANSACTION
+[2021-04-01T08:25:22.873Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:25:22.908Z][FAILED QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:25:22.908Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact' already exists
+[2021-04-01T08:25:22.910Z][QUERY]: ROLLBACK
+[2021-04-01T08:25:26.113Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T08:25:26.146Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T08:25:26.178Z][QUERY]: START TRANSACTION
+[2021-04-01T08:25:26.210Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:25:26.240Z][FAILED QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:25:26.240Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact' already exists
+[2021-04-01T08:25:26.240Z][QUERY]: ROLLBACK
+[2021-04-01T08:25:29.603Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T08:25:29.644Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T08:25:29.688Z][QUERY]: START TRANSACTION
+[2021-04-01T08:25:29.721Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:25:29.755Z][FAILED QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:25:29.755Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact' already exists
+[2021-04-01T08:25:29.756Z][QUERY]: ROLLBACK
+[2021-04-01T08:25:32.968Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T08:25:33.003Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T08:25:33.035Z][QUERY]: START TRANSACTION
+[2021-04-01T08:25:33.069Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:25:33.100Z][FAILED QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:25:33.100Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact' already exists
+[2021-04-01T08:25:33.101Z][QUERY]: ROLLBACK
+[2021-04-01T08:26:49.460Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T08:26:49.534Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T08:26:49.566Z]1 migrations are already loaded in the database.
+[2021-04-01T08:26:49.567Z]2 migrations were found in the source code.
+[2021-04-01T08:26:49.569Z]TBContact1617265409838 is the last executed migration. It was executed on Thu Apr 01 2021 15:23:29 GMT+0700 (Indochina Time).
+[2021-04-01T08:26:49.569Z]1 migrations are new migrations that needs to be executed.
+[2021-04-01T08:26:49.570Z][QUERY]: START TRANSACTION
+[2021-04-01T08:26:49.602Z][QUERY]: DROP INDEX `IDX_eff09bb429f175523787f46003` ON `contact`
+[2021-04-01T08:26:49.658Z][QUERY]: INSERT INTO `dev_mainsite_db`.`migrations`(`timestamp`, `name`) VALUES (?, ?) -- PARAMETERS: [1617265578415,"TBContact1617265578415"]
+[2021-04-01T08:26:49.883Z]Migration TBContact1617265578415 has been executed successfully.
+[2021-04-01T08:26:49.884Z][QUERY]: COMMIT
+[2021-04-01T08:27:08.815Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T08:27:08.866Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T08:27:08.903Z][QUERY]: START TRANSACTION
+[2021-04-01T08:27:08.962Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:27:08.996Z][FAILED QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:27:08.996Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact' already exists
+[2021-04-01T08:27:09.000Z][QUERY]: ROLLBACK
+[2021-04-01T08:27:12.406Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T08:27:12.449Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T08:27:12.483Z][QUERY]: START TRANSACTION
+[2021-04-01T08:27:13.153Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:27:13.195Z][FAILED QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:27:13.195Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact' already exists
+[2021-04-01T08:27:13.195Z][QUERY]: ROLLBACK
+[2021-04-01T08:27:16.585Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T08:27:16.619Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T08:27:16.651Z][QUERY]: START TRANSACTION
+[2021-04-01T08:27:16.682Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:27:16.717Z][FAILED QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T08:27:16.717Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact' already exists
+[2021-04-01T08:27:16.717Z][QUERY]: ROLLBACK
+[2021-04-01T08:27:33.649Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T08:27:33.692Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T08:27:33.927Z]2 migrations are already loaded in the database.
+[2021-04-01T08:27:33.928Z]TBContact1617265578415 is the last executed migration. It was executed on Thu Apr 01 2021 15:26:18 GMT+0700 (Indochina Time).
+[2021-04-01T08:27:33.928Z]Now reverting it...
+[2021-04-01T08:27:33.929Z][QUERY]: START TRANSACTION
+[2021-04-01T08:27:33.958Z][QUERY]: CREATE UNIQUE INDEX `IDX_eff09bb429f175523787f46003` ON `contact` (`email`)
+[2021-04-01T08:27:34.017Z][QUERY]: DELETE FROM `dev_mainsite_db`.`migrations` WHERE `timestamp` = ? AND `name` = ? -- PARAMETERS: [1617265578415,"TBContact1617265578415"]
+[2021-04-01T08:27:34.056Z]Migration TBContact1617265578415 has been reverted successfully.
+[2021-04-01T08:27:34.057Z][QUERY]: COMMIT
+[2021-04-01T08:28:35.309Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T08:28:35.357Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T08:28:35.393Z][QUERY]: START TRANSACTION
+[2021-04-01T08:28:35.424Z][QUERY]: DROP INDEX `IDX_eff09bb429f175523787f46003` ON `contact`
+[2021-04-01T08:28:35.478Z][QUERY]: INSERT INTO `dev_mainsite_db`.`migrations`(`timestamp`, `name`) VALUES (?, ?) -- PARAMETERS: [1617265578415,"TBContact1617265578415"]
+[2021-04-01T08:28:35.517Z][QUERY]: COMMIT
+[2021-04-01T08:28:38.976Z][QUERY]: START TRANSACTION
+[2021-04-01T08:28:39.011Z][QUERY]: INSERT INTO `contact`(`id`, `fullName`, `email`, `telephone`, `topic`, `detail`, `acceptPDPA`) VALUES (DEFAULT, ?, ?, ?, ?, ?, ?) -- PARAMETERS: ["aaa","ddd@dd.com","(123) 123-1233","topic2","123",0]
+[2021-04-01T08:28:39.064Z][QUERY]: COMMIT
+[2021-04-01T08:28:39.137Z][QUERY]: START TRANSACTION
+[2021-04-01T08:28:39.169Z][QUERY]: INSERT INTO `contact_attach_file`(`id`, `name`, `url`, `contactId`) VALUES (DEFAULT, ?, ?, ?) -- PARAMETERS: ["name","url",1]
+[2021-04-01T08:28:39.201Z][QUERY]: COMMIT
+[2021-04-01T08:28:43.723Z][QUERY]: START TRANSACTION
+[2021-04-01T08:28:43.767Z][QUERY]: INSERT INTO `contact`(`id`, `fullName`, `email`, `telephone`, `topic`, `detail`, `acceptPDPA`) VALUES (DEFAULT, ?, ?, ?, ?, ?, ?) -- PARAMETERS: ["aaa","ddd@dd.com","(123) 123-1233","topic2","123",0]
+[2021-04-01T08:28:43.802Z][QUERY]: COMMIT
+[2021-04-01T08:28:43.880Z][QUERY]: START TRANSACTION
+[2021-04-01T08:28:43.912Z][QUERY]: INSERT INTO `contact_attach_file`(`id`, `name`, `url`, `contactId`) VALUES (DEFAULT, ?, ?, ?) -- PARAMETERS: ["name","url",2]
+[2021-04-01T08:28:43.944Z][QUERY]: COMMIT
+[2021-04-01T08:29:19.082Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T08:29:19.191Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T08:29:21.636Z][QUERY]: START TRANSACTION
+[2021-04-01T08:29:21.676Z][QUERY]: INSERT INTO `contact`(`id`, `fullName`, `email`, `telephone`, `topic`, `detail`, `acceptPDPA`) VALUES (DEFAULT, ?, ?, ?, ?, ?, ?) -- PARAMETERS: ["aaa","ddd@dd.com","(123) 123-1233","topic2","123",0]
+[2021-04-01T08:29:21.936Z][QUERY]: COMMIT
+[2021-04-01T08:29:22.036Z][QUERY]: START TRANSACTION
+[2021-04-01T08:29:22.069Z][QUERY]: INSERT INTO `contact_attach_file`(`id`, `name`, `url`, `contactId`) VALUES (DEFAULT, ?, ?, ?) -- PARAMETERS: ["name","url",3]
+[2021-04-01T08:29:22.107Z][QUERY]: COMMIT
+[2021-04-01T08:29:27.207Z][QUERY]: START TRANSACTION
+[2021-04-01T08:29:27.241Z][QUERY]: INSERT INTO `contact`(`id`, `fullName`, `email`, `telephone`, `topic`, `detail`, `acceptPDPA`) VALUES (DEFAULT, ?, ?, ?, ?, ?, ?) -- PARAMETERS: ["aaa","ddd@dd.com","(123) 123-1233","topic2","123",0]
+[2021-04-01T08:29:27.278Z][QUERY]: COMMIT
+[2021-04-01T08:29:27.350Z][QUERY]: START TRANSACTION
+[2021-04-01T08:29:27.381Z][QUERY]: INSERT INTO `contact_attach_file`(`id`, `name`, `url`, `contactId`) VALUES (DEFAULT, ?, ?, ?) -- PARAMETERS: ["name","url",4]
+[2021-04-01T08:29:27.413Z][QUERY]: COMMIT
+[2021-04-01T08:30:34.555Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T08:30:34.598Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T08:30:39.039Z][QUERY]: START TRANSACTION
+[2021-04-01T08:30:39.081Z][QUERY]: INSERT INTO `contact`(`id`, `fullName`, `email`, `telephone`, `topic`, `detail`, `acceptPDPA`) VALUES (DEFAULT, ?, ?, ?, ?, ?, ?) -- PARAMETERS: ["aaa","ddd@dd.com","(123) 123-1233","topic2","123",0]
+[2021-04-01T08:30:39.140Z][QUERY]: COMMIT
+[2021-04-01T08:30:44.940Z][QUERY]: START TRANSACTION
+[2021-04-01T08:30:44.979Z][QUERY]: INSERT INTO `contact`(`id`, `fullName`, `email`, `telephone`, `topic`, `detail`, `acceptPDPA`) VALUES (DEFAULT, ?, ?, ?, ?, ?, ?) -- PARAMETERS: ["aaa","ddd@dd.com","(123) 123-1233","topic2","123",0]
+[2021-04-01T08:30:45.011Z][QUERY]: COMMIT
+[2021-04-01T08:33:43.435Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T08:33:43.483Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T08:34:16.631Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T08:34:16.677Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T08:37:33.520Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T08:37:33.766Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T08:43:19.348Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T08:43:19.464Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T08:43:25.667Z][QUERY]: START TRANSACTION
+[2021-04-01T08:43:25.712Z][QUERY]: INSERT INTO `contact`(`id`, `fullName`, `email`, `telephone`, `topic`, `detail`, `acceptPDPA`) VALUES (DEFAULT, ?, ?, ?, ?, ?, ?) -- PARAMETERS: ["aaa","ddd@dd.com","(123) 123-1233","topic2","123",0]
+[2021-04-01T08:43:25.751Z][QUERY]: COMMIT
+[2021-04-01T08:43:25.822Z][QUERY]: START TRANSACTION
+[2021-04-01T08:43:25.872Z][QUERY]: INSERT INTO `contact_attach_file`(`id`, `name`, `url`, `contactId`) VALUES (DEFAULT, ?, ?, ?) -- PARAMETERS: ["name","url",7]
+[2021-04-01T08:43:25.906Z][QUERY]: COMMIT
+[2021-04-01T08:44:59.035Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T08:44:59.085Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T08:48:18.943Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T08:48:18.986Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T08:48:35.693Z][QUERY]: START TRANSACTION
+[2021-04-01T08:48:35.736Z][QUERY]: INSERT INTO `contact`(`id`, `fullName`, `email`, `telephone`, `topic`, `detail`, `acceptPDPA`) VALUES (DEFAULT, ?, ?, ?, ?, ?, ?) -- PARAMETERS: ["aaa","ddd@dd.com","(123) 123-1233","topic2","123",0]
+[2021-04-01T08:48:35.774Z][QUERY]: COMMIT
+[2021-04-01T08:48:35.932Z][QUERY]: START TRANSACTION
+[2021-04-01T08:48:35.965Z][QUERY]: INSERT INTO `contact_attach_file`(`id`, `name`, `url`, `contactId`) VALUES (DEFAULT, ?, ?, ?) -- PARAMETERS: ["file.jpg","https://uat-mainsite-sinwattana-bucket.s3-ap-southeast-1.amazonaws.com/undefined",8]
+[2021-04-01T08:48:36.024Z][QUERY]: COMMIT
+[2021-04-01T08:54:06.650Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T08:54:06.698Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T08:54:27.274Z][QUERY]: START TRANSACTION
+[2021-04-01T08:54:27.310Z][QUERY]: INSERT INTO `contact`(`id`, `fullName`, `email`, `telephone`, `topic`, `detail`, `acceptPDPA`) VALUES (DEFAULT, ?, ?, ?, ?, ?, ?) -- PARAMETERS: ["aaa","ddd@dd.com","(123) 123-1233","topic2","123",0]
+[2021-04-01T08:54:27.349Z][QUERY]: COMMIT
+[2021-04-01T08:54:27.422Z][QUERY]: START TRANSACTION
+[2021-04-01T08:54:27.453Z][QUERY]: INSERT INTO `contact_attach_file`(`id`, `name`, `url`, `contactId`) VALUES (DEFAULT, ?, ?, ?) -- PARAMETERS: ["file.jpg","https://uat-mainsite-sinwattana-bucket.s3-ap-southeast-1.amazonaws.com/undefined",9]
+[2021-04-01T08:54:27.485Z][QUERY]: COMMIT
+[2021-04-01T08:56:39.651Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T08:56:39.690Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T08:56:54.293Z][QUERY]: START TRANSACTION
+[2021-04-01T08:56:54.335Z][QUERY]: INSERT INTO `contact`(`id`, `fullName`, `email`, `telephone`, `topic`, `detail`, `acceptPDPA`) VALUES (DEFAULT, ?, ?, ?, ?, ?, ?) -- PARAMETERS: ["aaa","ddd@dd.com","(123) 123-1233","topic2","123",0]
+[2021-04-01T08:56:54.372Z][QUERY]: COMMIT
+[2021-04-01T08:56:54.456Z][QUERY]: START TRANSACTION
+[2021-04-01T08:56:54.503Z][QUERY]: INSERT INTO `contact_attach_file`(`id`, `name`, `url`, `contactId`) VALUES (DEFAULT, ?, ?, ?) -- PARAMETERS: ["file.jpg","https://uat-mainsite-sinwattana-bucket.s3-ap-southeast-1.amazonaws.com/undefined",10]
+[2021-04-01T08:56:54.535Z][QUERY]: COMMIT
+[2021-04-01T09:12:42.839Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T09:12:42.894Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T09:15:12.910Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T09:15:12.960Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T09:18:01.640Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T09:18:01.678Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T09:20:47.767Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T09:20:47.811Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T09:20:47.844Z]2 migrations are already loaded in the database.
+[2021-04-01T09:20:47.844Z]3 migrations were found in the source code.
+[2021-04-01T09:20:47.846Z]TBContact1617265578415 is the last executed migration. It was executed on Thu Apr 01 2021 15:26:18 GMT+0700 (Indochina Time).
+[2021-04-01T09:20:47.847Z]1 migrations are new migrations that needs to be executed.
+[2021-04-01T09:20:47.848Z][QUERY]: START TRANSACTION
+[2021-04-01T09:20:47.880Z][QUERY]: ALTER TABLE `contact` ADD `attachFileName` varchar(255) NOT NULL
+[2021-04-01T09:20:48.170Z][QUERY]: ALTER TABLE `contact` ADD `attachFileUrl` varchar(255) NOT NULL
+[2021-04-01T09:20:48.282Z][QUERY]: ALTER TABLE `contact` CHANGE `email` `email` varchar(255) NOT NULL
+[2021-04-01T09:20:48.323Z][QUERY]: ALTER TABLE `contact` ADD UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`)
+[2021-04-01T09:20:48.416Z][FAILED QUERY]: ALTER TABLE `contact` ADD UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`)
+[2021-04-01T09:20:48.416Z][QUERY ERROR]: Error: ER_DUP_ENTRY: Duplicate entry 'ddd@dd.com' for key 'IDX_eff09bb429f175523787f46003'
+[2021-04-01T09:20:48.417Z][QUERY]: ROLLBACK
+[2021-04-01T09:21:16.573Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T09:21:16.617Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T09:21:16.651Z]2 migrations are already loaded in the database.
+[2021-04-01T09:21:16.652Z]TBContact1617265578415 is the last executed migration. It was executed on Thu Apr 01 2021 15:26:18 GMT+0700 (Indochina Time).
+[2021-04-01T09:21:16.653Z]Now reverting it...
+[2021-04-01T09:21:16.655Z][QUERY]: START TRANSACTION
+[2021-04-01T09:21:16.686Z][QUERY]: CREATE UNIQUE INDEX `IDX_eff09bb429f175523787f46003` ON `contact` (`email`)
+[2021-04-01T09:21:16.789Z][FAILED QUERY]: CREATE UNIQUE INDEX `IDX_eff09bb429f175523787f46003` ON `contact` (`email`)
+[2021-04-01T09:21:16.789Z][QUERY ERROR]: Error: ER_DUP_ENTRY: Duplicate entry 'ddd@dd.com' for key 'IDX_eff09bb429f175523787f46003'
+[2021-04-01T09:21:16.790Z][QUERY]: ROLLBACK
+[2021-04-01T09:22:33.590Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T09:22:33.632Z][QUERY]: CREATE TABLE `dev_mainsite_db`.`migrations` (`id` int NOT NULL AUTO_INCREMENT, `timestamp` bigint NOT NULL, `name` varchar(255) NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T09:22:33.697Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T09:22:33.734Z]0 migrations are already loaded in the database.
+[2021-04-01T09:22:33.734Z]1 migrations were found in the source code.
+[2021-04-01T09:22:33.735Z]1 migrations are new migrations that needs to be executed.
+[2021-04-01T09:22:33.736Z][QUERY]: START TRANSACTION
+[2021-04-01T09:22:33.781Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T09:22:33.852Z][QUERY]: INSERT INTO `dev_mainsite_db`.`migrations`(`timestamp`, `name`) VALUES (?, ?) -- PARAMETERS: [1617268910427,"TBContact1617268910427"]
+[2021-04-01T09:22:34.077Z]Migration TBContact1617268910427 has been executed successfully.
+[2021-04-01T09:22:34.078Z][QUERY]: COMMIT
+[2021-04-01T09:24:07.444Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T09:24:07.488Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T09:24:07.527Z][QUERY]: START TRANSACTION
+[2021-04-01T09:24:07.570Z][QUERY]: CREATE TABLE `contact_attach_file` (`id` int NOT NULL AUTO_INCREMENT, `name` varchar(255) NOT NULL, `url` varchar(255) NOT NULL, `contactId` int NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T09:24:07.628Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T09:24:07.683Z][FAILED QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T09:24:07.683Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact' already exists
+[2021-04-01T09:24:07.684Z][QUERY]: ROLLBACK
+[2021-04-01T09:24:11.210Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T09:24:11.242Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T09:24:11.276Z][QUERY]: START TRANSACTION
+[2021-04-01T09:24:11.307Z][QUERY]: CREATE TABLE `contact_attach_file` (`id` int NOT NULL AUTO_INCREMENT, `name` varchar(255) NOT NULL, `url` varchar(255) NOT NULL, `contactId` int NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T09:24:11.339Z][FAILED QUERY]: CREATE TABLE `contact_attach_file` (`id` int NOT NULL AUTO_INCREMENT, `name` varchar(255) NOT NULL, `url` varchar(255) NOT NULL, `contactId` int NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T09:24:11.339Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact_attach_file' already exists
+[2021-04-01T09:24:11.340Z][QUERY]: ROLLBACK
+[2021-04-01T09:24:14.713Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T09:24:14.768Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T09:24:14.800Z][QUERY]: START TRANSACTION
+[2021-04-01T09:24:14.833Z][QUERY]: CREATE TABLE `contact_attach_file` (`id` int NOT NULL AUTO_INCREMENT, `name` varchar(255) NOT NULL, `url` varchar(255) NOT NULL, `contactId` int NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T09:24:14.866Z][FAILED QUERY]: CREATE TABLE `contact_attach_file` (`id` int NOT NULL AUTO_INCREMENT, `name` varchar(255) NOT NULL, `url` varchar(255) NOT NULL, `contactId` int NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T09:24:14.866Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact_attach_file' already exists
+[2021-04-01T09:24:14.866Z][QUERY]: ROLLBACK
+[2021-04-01T09:24:18.079Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T09:24:18.112Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T09:24:18.144Z][QUERY]: START TRANSACTION
+[2021-04-01T09:24:18.174Z][QUERY]: CREATE TABLE `contact_attach_file` (`id` int NOT NULL AUTO_INCREMENT, `name` varchar(255) NOT NULL, `url` varchar(255) NOT NULL, `contactId` int NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T09:24:18.409Z][FAILED QUERY]: CREATE TABLE `contact_attach_file` (`id` int NOT NULL AUTO_INCREMENT, `name` varchar(255) NOT NULL, `url` varchar(255) NOT NULL, `contactId` int NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-04-01T09:24:18.409Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact_attach_file' already exists
+[2021-04-01T09:24:18.410Z][QUERY]: ROLLBACK
+[2021-04-01T09:24:54.783Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T09:24:54.829Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T09:25:13.246Z][QUERY]: START TRANSACTION
+[2021-04-01T09:25:13.367Z][QUERY]: INSERT INTO `contact`(`id`, `fullName`, `email`, `telephone`, `topic`, `detail`, `acceptPDPA`, `attachFileName`, `attachFileUrl`) VALUES (DEFAULT, ?, ?, ?, ?, ?, ?, ?, ?) -- PARAMETERS: ["aaa","ddd@dd.com","(123) 123-1233","topic2","123",0,"file.jpg","https://uat-mainsite-sinwattana-bucket.s3-ap-southeast-1.amazonaws.com/media/public/contact/attach-file/Thu Apr 01 2021 23:25:01 GMT+0700 (Indochina Time).jpg"]
+[2021-04-01T09:25:13.406Z][QUERY]: COMMIT
+[2021-04-01T09:48:54.982Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T09:48:55.024Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T09:49:04.460Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T09:49:04.503Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T09:49:15.866Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T09:49:15.912Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T09:49:52.556Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T09:49:52.611Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T09:50:07.157Z][QUERY]: START TRANSACTION
+[2021-04-01T09:50:07.193Z][QUERY]: INSERT INTO `contact`(`id`, `fullName`, `email`, `telephone`, `topic`, `detail`, `acceptPDPA`, `attachFileName`, `attachFileUrl`) VALUES (DEFAULT, ?, ?, ?, ?, ?, ?, ?, ?) -- PARAMETERS: ["aaa","ddd@dd.com","(123) 123-1233","topic2","123",0,"file.jpg","https://uat-mainsite-sinwattana-bucket.s3-ap-southeast-1.amazonaws.com/media/public/contact/attach-file/1617295800978.jpg"]
+[2021-04-01T09:50:07.230Z][FAILED QUERY]: INSERT INTO `contact`(`id`, `fullName`, `email`, `telephone`, `topic`, `detail`, `acceptPDPA`, `attachFileName`, `attachFileUrl`) VALUES (DEFAULT, ?, ?, ?, ?, ?, ?, ?, ?) -- PARAMETERS: ["aaa","ddd@dd.com","(123) 123-1233","topic2","123",0,"file.jpg","https://uat-mainsite-sinwattana-bucket.s3-ap-southeast-1.amazonaws.com/media/public/contact/attach-file/1617295800978.jpg"]
+[2021-04-01T09:50:07.230Z][QUERY ERROR]: Error: ER_DUP_ENTRY: Duplicate entry 'ddd@dd.com' for key 'IDX_eff09bb429f175523787f46003'
+[2021-04-01T09:50:07.232Z][QUERY]: ROLLBACK
+[2021-04-01T09:50:23.669Z][QUERY]: START TRANSACTION
+[2021-04-01T09:50:23.900Z][QUERY]: INSERT INTO `contact`(`id`, `fullName`, `email`, `telephone`, `topic`, `detail`, `acceptPDPA`, `attachFileName`, `attachFileUrl`) VALUES (DEFAULT, ?, ?, ?, ?, ?, ?, ?, ?) -- PARAMETERS: ["aaa","ddad@dd.com","(123) 123-1233","topic2","123",0,"file.jpg","https://uat-mainsite-sinwattana-bucket.s3-ap-southeast-1.amazonaws.com/media/public/contact/attach-file/1617295817875.jpg"]
+[2021-04-01T09:50:23.936Z][QUERY]: COMMIT
+[2021-04-01T09:51:16.574Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T09:51:16.930Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T09:51:38.999Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T09:51:39.044Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T09:52:03.032Z][QUERY]: START TRANSACTION
+[2021-04-01T09:52:03.071Z][QUERY]: INSERT INTO `contact`(`id`, `fullName`, `email`, `telephone`, `topic`, `detail`, `acceptPDPA`, `attachFileName`, `attachFileUrl`) VALUES (DEFAULT, ?, ?, ?, ?, ?, ?, ?, ?) -- PARAMETERS: ["aaa","ddad@dd.com","(123) 123-1233","topic2","123",0,"file.jpg","https://uat-mainsite-sinwattana-bucket.s3-ap-southeast-1.amazonaws.com/media/public/contact/attach-file/1617295909207.jpg"]
+[2021-04-01T09:52:03.105Z][FAILED QUERY]: INSERT INTO `contact`(`id`, `fullName`, `email`, `telephone`, `topic`, `detail`, `acceptPDPA`, `attachFileName`, `attachFileUrl`) VALUES (DEFAULT, ?, ?, ?, ?, ?, ?, ?, ?) -- PARAMETERS: ["aaa","ddad@dd.com","(123) 123-1233","topic2","123",0,"file.jpg","https://uat-mainsite-sinwattana-bucket.s3-ap-southeast-1.amazonaws.com/media/public/contact/attach-file/1617295909207.jpg"]
+[2021-04-01T09:52:03.105Z][QUERY ERROR]: Error: ER_DUP_ENTRY: Duplicate entry 'ddad@dd.com' for key 'IDX_eff09bb429f175523787f46003'
+[2021-04-01T09:52:03.106Z][QUERY]: ROLLBACK
+[2021-04-01T10:09:15.778Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T10:09:15.824Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T10:09:24.068Z][QUERY]: START TRANSACTION
+[2021-04-01T10:09:24.116Z][QUERY]: INSERT INTO `contact`(`id`, `fullName`, `email`, `telephone`, `topic`, `detail`, `acceptPDPA`, `attachFileName`, `attachFileUrl`) VALUES (DEFAULT, ?, ?, ?, ?, ?, ?, ?, ?) -- PARAMETERS: ["aaa","ddadd@dd.com","(123) 123-1233","topic2","123",0,"file.jpg","https://uat-mainsite-sinwattana-bucket.s3-ap-southeast-1.amazonaws.com/media/public/contact/attach-file/1617296962163.jpg"]
+[2021-04-01T10:09:24.153Z][QUERY]: COMMIT
+[2021-04-01T10:12:52.072Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T10:12:52.192Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-01T10:13:01.791Z][QUERY]: START TRANSACTION
+[2021-04-01T10:13:01.838Z][QUERY]: INSERT INTO `contact`(`id`, `fullName`, `email`, `telephone`, `topic`, `detail`, `acceptPDPA`, `attachFileName`, `attachFileUrl`) VALUES (DEFAULT, ?, ?, ?, ?, ?, ?, ?, ?) -- PARAMETERS: ["aaa","addadd@dd.com","(123) 123-1233","topic2","123",0,"file.jpg","https://uat-mainsite-sinwattana-bucket.s3-ap-southeast-1.amazonaws.com/media/public/contact/attach-file/1617297176817.jpg"]
+[2021-04-01T10:13:01.898Z][QUERY]: COMMIT
+[2021-04-01T10:13:08.303Z][QUERY]: START TRANSACTION
+[2021-04-01T10:13:08.337Z][QUERY]: INSERT INTO `contact`(`id`, `fullName`, `email`, `telephone`, `topic`, `detail`, `acceptPDPA`, `attachFileName`, `attachFileUrl`) VALUES (DEFAULT, ?, ?, ?, ?, ?, ?, ?, ?) -- PARAMETERS: ["aaa","addadd@dd.com","(123) 123-1233","topic2","123",0,"file.jpg","https://uat-mainsite-sinwattana-bucket.s3-ap-southeast-1.amazonaws.com/media/public/contact/attach-file/1617297176714.jpg"]
+[2021-04-01T10:13:08.573Z][FAILED QUERY]: INSERT INTO `contact`(`id`, `fullName`, `email`, `telephone`, `topic`, `detail`, `acceptPDPA`, `attachFileName`, `attachFileUrl`) VALUES (DEFAULT, ?, ?, ?, ?, ?, ?, ?, ?) -- PARAMETERS: ["aaa","addadd@dd.com","(123) 123-1233","topic2","123",0,"file.jpg","https://uat-mainsite-sinwattana-bucket.s3-ap-southeast-1.amazonaws.com/media/public/contact/attach-file/1617297176714.jpg"]
+[2021-04-01T10:13:08.573Z][QUERY ERROR]: Error: ER_DUP_ENTRY: Duplicate entry 'addadd@dd.com' for key 'IDX_eff09bb429f175523787f46003'
+[2021-04-01T10:13:08.574Z][QUERY]: ROLLBACK
+[2021-04-01T10:16:48.332Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-01T10:16:48.788Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-02T02:43:11.482Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-02T02:43:11.534Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-02T04:10:33.904Z][QUERY]: START TRANSACTION
+[2021-04-02T04:10:33.946Z][QUERY]: INSERT INTO `contact`(`id`, `fullName`, `email`, `telephone`, `topic`, `detail`, `acceptPDPA`, `attachFileName`, `attachFileUrl`) VALUES (DEFAULT, ?, ?, ?, ?, ?, ?, ?, ?) -- PARAMETERS: ["ssss","ss@ss.com","(312) 321-3123","topic1","asdasdsa",0,"accept.png","https://uat-mainsite-sinwattana-bucket.s3-ap-southeast-1.amazonaws.com/media/public/contact/attach-file/1617361832859.png"]
+[2021-04-02T04:10:33.987Z][QUERY]: COMMIT
+[2021-04-02T04:11:57.908Z][QUERY]: START TRANSACTION
+[2021-04-02T04:11:57.942Z][QUERY]: INSERT INTO `contact`(`id`, `fullName`, `email`, `telephone`, `topic`, `detail`, `acceptPDPA`, `attachFileName`, `attachFileUrl`) VALUES (DEFAULT, ?, ?, ?, ?, ?, ?, ?, ?) -- PARAMETERS: ["Tour","ss@naja.com","(231) 333-3333","topic2","sad",0,"165484-esport.jpg","https://uat-mainsite-sinwattana-bucket.s3-ap-southeast-1.amazonaws.com/media/public/contact/attach-file/1617361917015.jpg"]
+[2021-04-02T04:11:57.974Z][QUERY]: COMMIT
+[2021-04-02T04:16:13.172Z][QUERY]: START TRANSACTION
+[2021-04-02T04:16:13.211Z][QUERY]: INSERT INTO `contact`(`id`, `fullName`, `email`, `telephone`, `topic`, `detail`, `acceptPDPA`, `attachFileName`, `attachFileUrl`) VALUES (DEFAULT, ?, ?, ?, ?, ?, ?, ?, ?) -- PARAMETERS: ["momojito","hamtaro@hhammm.com","(123) 131-2323","topic3","asdad",0,"accept.png","https://uat-mainsite-sinwattana-bucket.s3-ap-southeast-1.amazonaws.com/media/public/contact/attach-file/1617362172931.png"]
+[2021-04-02T04:16:13.456Z][QUERY]: COMMIT
+[2021-04-02T04:18:42.483Z][QUERY]: START TRANSACTION
+[2021-04-02T04:18:42.519Z][QUERY]: INSERT INTO `contact`(`id`, `fullName`, `email`, `telephone`, `topic`, `detail`, `acceptPDPA`, `attachFileName`, `attachFileUrl`) VALUES (DEFAULT, ?, ?, ?, ?, ?, ?, ?, ?) -- PARAMETERS: ["kidtung","naja@naja.com","(123) 133-3333","topic3","asd",0,"accept.png","https://uat-mainsite-sinwattana-bucket.s3-ap-southeast-1.amazonaws.com/media/public/contact/attach-file/1617362322055.png"]
+[2021-04-02T04:18:42.553Z][QUERY]: COMMIT
+[2021-04-02T04:20:29.602Z][QUERY]: START TRANSACTION
+[2021-04-02T04:20:29.637Z][QUERY]: INSERT INTO `contact`(`id`, `fullName`, `email`, `telephone`, `topic`, `detail`, `acceptPDPA`, `attachFileName`, `attachFileUrl`) VALUES (DEFAULT, ?, ?, ?, ?, ?, ?, ?, ?) -- PARAMETERS: ["Siam","z@z.com","(123) 233-3333","topic4","asd",0,"accept.png","https://uat-mainsite-sinwattana-bucket.s3-ap-southeast-1.amazonaws.com/media/public/contact/attach-file/1617362429160.png"]
+[2021-04-02T04:20:29.757Z][QUERY]: COMMIT
+[2021-04-02T04:24:42.611Z][QUERY]: START TRANSACTION
+[2021-04-02T04:24:42.654Z][QUERY]: INSERT INTO `contact`(`id`, `fullName`, `email`, `telephone`, `topic`, `detail`, `acceptPDPA`, `attachFileName`, `attachFileUrl`) VALUES (DEFAULT, ?, ?, ?, ?, ?, ?, ?, ?) -- PARAMETERS: ["Halo","sadsa@sad.com","(123) 133-2133","topic2","asd",0,"accept.png","https://uat-mainsite-sinwattana-bucket.s3-ap-southeast-1.amazonaws.com/media/public/contact/attach-file/1617362682266.png"]
+[2021-04-02T04:24:42.688Z][QUERY]: COMMIT
+[2021-04-02T07:35:46.523Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-04-02T07:35:46.570Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-04-02T08:01:48.971Z][QUERY]: START TRANSACTION
+[2021-04-02T08:01:49.044Z][QUERY]: INSERT INTO `contact`(`id`, `fullName`, `email`, `telephone`, `topic`, `detail`, `acceptPDPA`, `attachFileName`, `attachFileUrl`) VALUES (DEFAULT, ?, ?, ?, ?, ?, ?, ?, ?) -- PARAMETERS: ["Komkrit jankhong","kkj@sinwattana.com","(092) 222-3330","topic2","555",0,"SWNOPH-1.png","https://uat-mainsite-sinwattana-bucket.s3-ap-southeast-1.amazonaws.com/media/public/contact/attach-file/1617375706840.png"]
+[2021-04-02T08:01:49.081Z][QUERY]: COMMIT
+[2021-05-03T18:35:51.437Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-05-03T18:35:51.487Z][QUERY]: CREATE TABLE `dev_mainsite_db`.`migrations` (`id` int NOT NULL AUTO_INCREMENT, `timestamp` bigint NOT NULL, `name` varchar(255) NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-03T18:35:51.579Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-05-03T18:35:51.626Z]0 migrations are already loaded in the database.
+[2021-05-03T18:35:51.626Z]1 migrations were found in the source code.
+[2021-05-03T18:35:51.627Z]1 migrations are new migrations that needs to be executed.
+[2021-05-03T18:35:51.628Z][QUERY]: START TRANSACTION
+[2021-05-03T18:35:51.667Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-03T18:35:51.750Z][QUERY]: INSERT INTO `dev_mainsite_db`.`migrations`(`timestamp`, `name`) VALUES (?, ?) -- PARAMETERS: [1620066897401,"testMigrate1620066897401"]
+[2021-05-03T18:35:51.798Z]Migration testMigrate1620066897401 has been executed successfully.
+[2021-05-03T18:35:51.801Z][QUERY]: COMMIT
+[2021-05-04T02:56:50.037Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'migrate_test' AND `TABLE_NAME` = 'migrations'
+[2021-05-04T02:56:50.079Z][QUERY]: CREATE TABLE `migrate_test`.`migrations` (`id` int NOT NULL AUTO_INCREMENT, `timestamp` bigint NOT NULL, `name` varchar(255) NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-04T02:56:50.149Z][QUERY]: SELECT * FROM `migrate_test`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-05-04T02:56:50.184Z]0 migrations are already loaded in the database.
+[2021-05-04T02:56:50.185Z]1 migrations were found in the source code.
+[2021-05-04T02:56:50.186Z]1 migrations are new migrations that needs to be executed.
+[2021-05-04T02:56:50.187Z][QUERY]: START TRANSACTION
+[2021-05-04T02:56:50.223Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-04T02:56:50.291Z][QUERY]: INSERT INTO `migrate_test`.`migrations`(`timestamp`, `name`) VALUES (?, ?) -- PARAMETERS: [1620096964230,"tblContact1620096964230"]
+[2021-05-04T02:56:50.333Z]Migration tblContact1620096964230 has been executed successfully.
+[2021-05-04T02:56:50.334Z][QUERY]: COMMIT
+[2021-05-10T06:59:11.194Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-05-10T06:59:11.236Z][QUERY]: CREATE TABLE `dev_mainsite_db`.`migrations` (`id` int NOT NULL AUTO_INCREMENT, `timestamp` bigint NOT NULL, `name` varchar(255) NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T06:59:11.311Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-05-10T06:59:11.348Z]0 migrations are already loaded in the database.
+[2021-05-10T06:59:11.348Z]1 migrations were found in the source code.
+[2021-05-10T06:59:11.349Z]1 migrations are new migrations that needs to be executed.
+[2021-05-10T06:59:11.350Z][QUERY]: START TRANSACTION
+[2021-05-10T06:59:11.416Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T06:59:11.479Z][QUERY]: INSERT INTO `dev_mainsite_db`.`migrations`(`timestamp`, `name`) VALUES (?, ?) -- PARAMETERS: [1620096964230,"tblContact1620096964230"]
+[2021-05-10T06:59:11.520Z]Migration tblContact1620096964230 has been executed successfully.
+[2021-05-10T06:59:11.521Z][QUERY]: COMMIT
+[2021-05-10T06:59:55.986Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-05-10T06:59:56.032Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-05-10T06:59:56.079Z][QUERY]: START TRANSACTION
+[2021-05-10T06:59:56.114Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T06:59:56.153Z][FAILED QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T06:59:56.153Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact' already exists
+[2021-05-10T06:59:56.155Z][QUERY]: ROLLBACK
+[2021-05-10T06:59:59.399Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-05-10T06:59:59.439Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-05-10T06:59:59.472Z][QUERY]: START TRANSACTION
+[2021-05-10T06:59:59.505Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T06:59:59.542Z][FAILED QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T06:59:59.542Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact' already exists
+[2021-05-10T06:59:59.543Z][QUERY]: ROLLBACK
+[2021-05-10T07:00:02.761Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-05-10T07:00:02.795Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-05-10T07:00:02.830Z][QUERY]: START TRANSACTION
+[2021-05-10T07:00:02.866Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T07:00:02.899Z][FAILED QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T07:00:02.899Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact' already exists
+[2021-05-10T07:00:02.900Z][QUERY]: ROLLBACK
+[2021-05-10T07:00:06.129Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-05-10T07:00:06.166Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-05-10T07:00:06.201Z][QUERY]: START TRANSACTION
+[2021-05-10T07:00:06.235Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T07:00:06.270Z][FAILED QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T07:00:06.270Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact' already exists
+[2021-05-10T07:00:06.271Z][QUERY]: ROLLBACK
+[2021-05-10T07:00:09.499Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-05-10T07:00:09.535Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-05-10T07:00:09.569Z][QUERY]: START TRANSACTION
+[2021-05-10T07:00:09.601Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T07:00:09.634Z][FAILED QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T07:00:09.634Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact' already exists
+[2021-05-10T07:00:09.635Z][QUERY]: ROLLBACK
+[2021-05-10T07:00:12.863Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-05-10T07:00:12.900Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-05-10T07:00:12.934Z][QUERY]: START TRANSACTION
+[2021-05-10T07:00:12.967Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T07:00:13.000Z][FAILED QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T07:00:13.000Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact' already exists
+[2021-05-10T07:00:13.002Z][QUERY]: ROLLBACK
+[2021-05-10T07:00:16.261Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-05-10T07:00:16.301Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-05-10T07:00:16.338Z][QUERY]: START TRANSACTION
+[2021-05-10T07:00:16.373Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T07:00:16.408Z][FAILED QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T07:00:16.408Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact' already exists
+[2021-05-10T07:00:16.408Z][QUERY]: ROLLBACK
+[2021-05-10T07:00:19.700Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-05-10T07:00:19.739Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-05-10T07:00:19.775Z][QUERY]: START TRANSACTION
+[2021-05-10T07:00:19.812Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T07:00:19.847Z][FAILED QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T07:00:19.847Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact' already exists
+[2021-05-10T07:00:19.848Z][QUERY]: ROLLBACK
+[2021-05-10T07:00:23.078Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-05-10T07:00:23.114Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-05-10T07:00:23.151Z][QUERY]: START TRANSACTION
+[2021-05-10T07:00:23.191Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T07:00:23.227Z][FAILED QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T07:00:23.227Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact' already exists
+[2021-05-10T07:00:23.229Z][QUERY]: ROLLBACK
+[2021-05-10T07:02:41.351Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-05-10T07:02:41.389Z][QUERY]: CREATE TABLE `dev_mainsite_db`.`migrations` (`id` int NOT NULL AUTO_INCREMENT, `timestamp` bigint NOT NULL, `name` varchar(255) NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T07:02:41.454Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-05-10T07:02:41.490Z][QUERY]: START TRANSACTION
+[2021-05-10T07:02:41.524Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T07:02:41.592Z][QUERY]: INSERT INTO `dev_mainsite_db`.`migrations`(`timestamp`, `name`) VALUES (?, ?) -- PARAMETERS: [1617268910427,"TBContact1617268910427"]
+[2021-05-10T07:02:41.633Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T07:02:41.672Z][FAILED QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T07:02:41.672Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact' already exists
+[2021-05-10T07:02:41.674Z][QUERY]: ROLLBACK
+[2021-05-10T07:02:44.900Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-05-10T07:02:44.938Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-05-10T07:02:44.973Z][QUERY]: START TRANSACTION
+[2021-05-10T07:02:45.008Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T07:02:45.042Z][FAILED QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T07:02:45.042Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact' already exists
+[2021-05-10T07:02:45.043Z][QUERY]: ROLLBACK
+[2021-05-10T07:02:48.264Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-05-10T07:02:48.299Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-05-10T07:02:48.333Z][QUERY]: START TRANSACTION
+[2021-05-10T07:02:48.370Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T07:02:48.405Z][FAILED QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T07:02:48.405Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact' already exists
+[2021-05-10T07:02:48.408Z][QUERY]: ROLLBACK
+[2021-05-10T07:02:51.649Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-05-10T07:02:51.687Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-05-10T07:02:51.725Z][QUERY]: START TRANSACTION
+[2021-05-10T07:02:51.759Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T07:02:51.793Z][FAILED QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T07:02:51.793Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact' already exists
+[2021-05-10T07:02:51.794Z][QUERY]: ROLLBACK
+[2021-05-10T07:02:55.045Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-05-10T07:02:55.081Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-05-10T07:02:55.122Z][QUERY]: START TRANSACTION
+[2021-05-10T07:02:55.162Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T07:02:55.204Z][FAILED QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T07:02:55.204Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact' already exists
+[2021-05-10T07:02:55.208Z][QUERY]: ROLLBACK
+[2021-05-10T07:02:58.442Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-05-10T07:02:58.479Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-05-10T07:02:58.512Z][QUERY]: START TRANSACTION
+[2021-05-10T07:02:58.547Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T07:02:58.580Z][FAILED QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T07:02:58.580Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact' already exists
+[2021-05-10T07:02:58.582Z][QUERY]: ROLLBACK
+[2021-05-10T07:03:01.823Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-05-10T07:03:01.858Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-05-10T07:03:01.891Z][QUERY]: START TRANSACTION
+[2021-05-10T07:03:01.924Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T07:03:01.957Z][FAILED QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T07:03:01.957Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact' already exists
+[2021-05-10T07:03:01.958Z][QUERY]: ROLLBACK
+[2021-05-10T07:03:05.181Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-05-10T07:03:05.220Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-05-10T07:03:05.254Z][QUERY]: START TRANSACTION
+[2021-05-10T07:03:05.288Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T07:03:05.322Z][FAILED QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T07:03:05.322Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact' already exists
+[2021-05-10T07:03:05.323Z][QUERY]: ROLLBACK
+[2021-05-10T07:03:08.543Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-05-10T07:03:08.585Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-05-10T07:03:08.621Z][QUERY]: START TRANSACTION
+[2021-05-10T07:03:08.661Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T07:03:08.696Z][FAILED QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T07:03:08.696Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact' already exists
+[2021-05-10T07:03:08.697Z][QUERY]: ROLLBACK
+[2021-05-10T07:03:29.363Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-05-10T07:03:29.409Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-05-10T07:03:29.446Z][QUERY]: START TRANSACTION
+[2021-05-10T07:03:29.492Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T07:03:29.542Z][FAILED QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T07:03:29.542Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact' already exists
+[2021-05-10T07:03:29.543Z][QUERY]: ROLLBACK
+[2021-05-10T07:03:32.766Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-05-10T07:03:32.803Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-05-10T07:03:32.837Z][QUERY]: START TRANSACTION
+[2021-05-10T07:03:32.870Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T07:03:32.903Z][FAILED QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T07:03:32.903Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact' already exists
+[2021-05-10T07:03:32.903Z][QUERY]: ROLLBACK
+[2021-05-10T07:03:36.141Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-05-10T07:03:36.181Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-05-10T07:03:36.214Z][QUERY]: START TRANSACTION
+[2021-05-10T07:03:36.245Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T07:03:36.278Z][FAILED QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T07:03:36.278Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact' already exists
+[2021-05-10T07:03:36.279Z][QUERY]: ROLLBACK
+[2021-05-10T07:03:39.513Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-05-10T07:03:39.551Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-05-10T07:03:39.590Z][QUERY]: START TRANSACTION
+[2021-05-10T07:03:39.626Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T07:03:39.662Z][FAILED QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T07:03:39.662Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact' already exists
+[2021-05-10T07:03:39.662Z][QUERY]: ROLLBACK
+[2021-05-10T07:03:42.882Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-05-10T07:03:42.916Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-05-10T07:03:42.949Z][QUERY]: START TRANSACTION
+[2021-05-10T07:03:42.983Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T07:03:43.016Z][FAILED QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T07:03:43.016Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact' already exists
+[2021-05-10T07:03:43.017Z][QUERY]: ROLLBACK
+[2021-05-10T07:03:46.235Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-05-10T07:03:46.273Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-05-10T07:03:46.307Z][QUERY]: START TRANSACTION
+[2021-05-10T07:03:46.340Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T07:03:46.376Z][FAILED QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T07:03:46.376Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact' already exists
+[2021-05-10T07:03:46.376Z][QUERY]: ROLLBACK
+[2021-05-10T07:03:49.643Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-05-10T07:03:49.679Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-05-10T07:03:49.714Z][QUERY]: START TRANSACTION
+[2021-05-10T07:03:49.747Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T07:03:49.782Z][FAILED QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T07:03:49.782Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact' already exists
+[2021-05-10T07:03:49.783Z][QUERY]: ROLLBACK
+[2021-05-10T07:03:53.002Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-05-10T07:03:53.036Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-05-10T07:03:53.071Z][QUERY]: START TRANSACTION
+[2021-05-10T07:03:53.103Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T07:03:53.136Z][FAILED QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T07:03:53.136Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact' already exists
+[2021-05-10T07:03:53.137Z][QUERY]: ROLLBACK
+[2021-05-10T07:03:56.354Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'dev_mainsite_db' AND `TABLE_NAME` = 'migrations'
+[2021-05-10T07:03:56.390Z][QUERY]: SELECT * FROM `dev_mainsite_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-05-10T07:03:56.426Z][QUERY]: START TRANSACTION
+[2021-05-10T07:03:56.462Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T07:03:56.496Z][FAILED QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T07:03:56.496Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact' already exists
+[2021-05-10T07:03:56.497Z][QUERY]: ROLLBACK
+[2021-05-10T16:08:34.194Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'intern_db' AND `TABLE_NAME` = 'migrations'
+[2021-05-10T16:08:34.249Z][QUERY]: CREATE TABLE `intern_db`.`migrations` (`id` int NOT NULL AUTO_INCREMENT, `timestamp` bigint NOT NULL, `name` varchar(255) NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T16:08:34.325Z][QUERY]: SELECT * FROM `intern_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-05-10T16:08:34.362Z][QUERY]: START TRANSACTION
+[2021-05-10T16:08:34.397Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T16:08:34.466Z][QUERY]: INSERT INTO `intern_db`.`migrations`(`timestamp`, `name`) VALUES (?, ?) -- PARAMETERS: [1617268910427,"TBContact1617268910427"]
+[2021-05-10T16:08:34.507Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T16:08:34.547Z][FAILED QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T16:08:34.547Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact' already exists
+[2021-05-10T16:08:34.549Z][QUERY]: ROLLBACK
+[2021-05-10T16:08:37.778Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'intern_db' AND `TABLE_NAME` = 'migrations'
+[2021-05-10T16:08:37.816Z][QUERY]: SELECT * FROM `intern_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-05-10T16:08:37.856Z][QUERY]: START TRANSACTION
+[2021-05-10T16:08:37.890Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T16:08:37.929Z][FAILED QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T16:08:37.929Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact' already exists
+[2021-05-10T16:08:37.929Z][QUERY]: ROLLBACK
+[2021-05-10T16:08:41.174Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'intern_db' AND `TABLE_NAME` = 'migrations'
+[2021-05-10T16:08:41.211Z][QUERY]: SELECT * FROM `intern_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-05-10T16:08:41.298Z][QUERY]: START TRANSACTION
+[2021-05-10T16:08:41.336Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T16:08:41.455Z][FAILED QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T16:08:41.455Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact' already exists
+[2021-05-10T16:08:41.455Z][QUERY]: ROLLBACK
+[2021-05-10T16:08:44.726Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'intern_db' AND `TABLE_NAME` = 'migrations'
+[2021-05-10T16:08:44.768Z][QUERY]: SELECT * FROM `intern_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-05-10T16:08:44.809Z][QUERY]: START TRANSACTION
+[2021-05-10T16:08:44.848Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T16:08:44.889Z][FAILED QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T16:08:44.889Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact' already exists
+[2021-05-10T16:08:44.890Z][QUERY]: ROLLBACK
+[2021-05-10T16:08:48.201Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'intern_db' AND `TABLE_NAME` = 'migrations'
+[2021-05-10T16:08:48.243Z][QUERY]: SELECT * FROM `intern_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-05-10T16:08:48.291Z][QUERY]: START TRANSACTION
+[2021-05-10T16:08:48.327Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T16:08:48.363Z][FAILED QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T16:08:48.363Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact' already exists
+[2021-05-10T16:08:48.364Z][QUERY]: ROLLBACK
+[2021-05-10T16:08:51.621Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'intern_db' AND `TABLE_NAME` = 'migrations'
+[2021-05-10T16:08:51.659Z][QUERY]: SELECT * FROM `intern_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-05-10T16:08:51.698Z][QUERY]: START TRANSACTION
+[2021-05-10T16:08:51.733Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T16:08:51.770Z][FAILED QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T16:08:51.770Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact' already exists
+[2021-05-10T16:08:51.779Z][QUERY]: ROLLBACK
+[2021-05-10T16:08:55.015Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'intern_db' AND `TABLE_NAME` = 'migrations'
+[2021-05-10T16:08:55.061Z][QUERY]: SELECT * FROM `intern_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-05-10T16:08:55.096Z][QUERY]: START TRANSACTION
+[2021-05-10T16:08:55.133Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T16:08:55.170Z][FAILED QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T16:08:55.170Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact' already exists
+[2021-05-10T16:08:55.170Z][QUERY]: ROLLBACK
+[2021-05-10T16:08:58.408Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'intern_db' AND `TABLE_NAME` = 'migrations'
+[2021-05-10T16:08:58.445Z][QUERY]: SELECT * FROM `intern_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-05-10T16:08:58.480Z][QUERY]: START TRANSACTION
+[2021-05-10T16:08:58.515Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T16:08:58.549Z][FAILED QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T16:08:58.549Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact' already exists
+[2021-05-10T16:08:58.550Z][QUERY]: ROLLBACK
+[2021-05-10T16:09:01.776Z][QUERY]: SELECT * FROM `INFORMATION_SCHEMA`.`COLUMNS` WHERE `TABLE_SCHEMA` = 'intern_db' AND `TABLE_NAME` = 'migrations'
+[2021-05-10T16:09:01.815Z][QUERY]: SELECT * FROM `intern_db`.`migrations` `migrations`  ORDER BY `id` DESC
+[2021-05-10T16:09:01.851Z][QUERY]: START TRANSACTION
+[2021-05-10T16:09:01.888Z][QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T16:09:01.925Z][FAILED QUERY]: CREATE TABLE `contact` (`id` int NOT NULL AUTO_INCREMENT, `fullName` varchar(255) NOT NULL, `email` varchar(255) NOT NULL, `telephone` varchar(255) NOT NULL, `topic` varchar(255) NOT NULL, `detail` varchar(255) NOT NULL, `acceptPDPA` tinyint NOT NULL, `attachFileName` varchar(255) NOT NULL, `attachFileUrl` varchar(255) NOT NULL, UNIQUE INDEX `IDX_eff09bb429f175523787f46003` (`email`), PRIMARY KEY (`id`)) ENGINE=InnoDB
+[2021-05-10T16:09:01.925Z][QUERY ERROR]: Error: ER_TABLE_EXISTS_ERROR: Table 'contact' already exists
+[2021-05-10T16:09:01.926Z][QUERY]: ROLLBACK
